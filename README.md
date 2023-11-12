@@ -1,5 +1,9 @@
 # Evento do Dia Das Empresas 
 
+>![Asset 2](https://github.com/JoaoNascimento6/Evento-Dia-das-Empresas/assets/120685146/f81b8f67-8e90-482f-adf9-bb8416538387)
+
+
+
 ## Project Description
 
 >The Integrated Project II academic unit aims to ideate and develop a communication plan for one of the events/projects listed in the annex. The communication plan will mandatorily include the following components:
